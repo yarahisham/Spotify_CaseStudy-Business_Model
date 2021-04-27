@@ -1,4 +1,5 @@
 ## Knolwdge Officer [Product Management Track]: Budiness Fundamentals -> _Business_Model_
+You are a Product Manager at Spotify and your are tasked to create Spotify Business Model.
 
 <p align="center">
 <img src="https://github.com/yarahisham/Spotify_CaseStudy-Business_Model/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.07.09%20AM.jpg" alt="alt text" width="400" height="600" >
