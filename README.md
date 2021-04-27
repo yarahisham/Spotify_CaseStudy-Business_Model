@@ -6,12 +6,12 @@ You are a Product Manager at Spotify and your are tasked to create Spotify Busin
 </p>
 
 ## Description
-- The Business Model induldes:
+- The Business Model includes:
   - Key Partners.
   - Key Activities.
   - Key Resources.
   - Value Propositions.
-  - Customer Relearionships.
+  - Customer Releationships.
   - Channels.
   - Customer Segmentations.
   - Cost Structure.
