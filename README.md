@@ -4,8 +4,18 @@
 <img src="https://github.com/yarahisham/Spotify_CaseStudy-Business_Model/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.07.09%20AM.jpg" alt="alt text" width="400" height="600" >
 </p>
 
-##Description
-
+## Description
+- The Business Model induldes:
+  - Key Partners.
+  - Key Activities.
+  - Key Resources.
+  - Value Propositions.
+  - Customer Relearionships.
+  - Channels.
+  - Customer Segmentations.
+  - Cost Structure.
+  - Revenue Streams.
+ 
 <p align="center">
 <img src="https://github.com/yarahisham/Spotify_CaseStudy-Business_Model/blob/main/Images/Screen%20Shot%202021-04-27%20at%203.07.25%20AM.jpg" alt="alt text" width="400" height="600" >
 </p>
